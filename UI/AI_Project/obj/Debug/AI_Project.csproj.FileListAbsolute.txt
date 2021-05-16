@@ -1,0 +1,10 @@
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.csprojAssemblyReference.cache
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.Form1.resources
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.csproj.GenerateResource.cache
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/bin/Debug/AI_Project.exe.config
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/bin/Debug/AI_Project.exe
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/bin/Debug/AI_Project.pdb
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.Properties.Resources.resources
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.csproj.CoreCompileInputs.cache
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.exe
+/home/zw01f/Downloads/Telegram Desktop/AI_Project/AI_Project/obj/Debug/AI_Project.pdb
