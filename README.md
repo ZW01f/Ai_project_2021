@@ -5,7 +5,7 @@
 ```
 python -m pip install PySimpleGUI
 ```
--	**scikit-learn version 0.21.3 ** 
+-	**scikit-learn version 0.21.3** 
 ```
 pip install -U scikit-learn==0.21.3
 ```
