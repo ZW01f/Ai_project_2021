@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-# Requirements
-=======
+
 # Requirements 
->>>>>>> 4024f765da5cd735308f9d6427530fc82cdc0828
 
 - **[PySimpleGUI](https://github.com/PySimpleGUI)**
 
 ```
 python -m pip install PySimpleGUI
 ```
-<<<<<<< HEAD
 
 - **scikit-learn version 0.21.3 or lower**
 
