@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 # Requirements
+=======
+# Requirements 
+>>>>>>> 4024f765da5cd735308f9d6427530fc82cdc0828
 
 - **[PySimpleGUI](https://github.com/PySimpleGUI)**
 
 ```
 python -m pip install PySimpleGUI
 ```
+<<<<<<< HEAD
 
 - **scikit-learn version 0.21.3 or lower**
 
@@ -71,3 +76,10 @@ pip install -U scikit-learn==0.21.3
 
 
 
+=======
+-	**scikit-learn version 0.21.3** 
+```
+pip install -U scikit-learn==0.21.3
+```
+- [Download](https://github.com/ZW01f/Ai_project_2021/tree/main/important_files) and put them in the same Directory with **MainPROG** 
+>>>>>>> 4024f765da5cd735308f9d6427530fc82cdc0828
